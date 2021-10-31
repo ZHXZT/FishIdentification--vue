@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/identification/identification",
+    "pages/camera/camera",
+    "pages/detail/detail",
+    "pages/text/d"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
